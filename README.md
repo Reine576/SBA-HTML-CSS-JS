@@ -1,4 +1,6 @@
-# SBA-HTML-CSS-JS  ANGEL's TENNIS CLUB
+# SBA-HTML-CSS-JS  ANGEL's TENNIS CLUB 
+
+The following is the GitHub link:   https://github.com/Reine576/SBA-HTML-CSS-JS.git
 
 This is a Tennis Club website. Here you are able to Register for tennis sessions, OR as a Coach and member of Angel's Tennis Club, you are able to reserve courts for coaching incoming players/students.
 
