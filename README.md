@@ -1,6 +1,6 @@
 # SBA-HTML-CSS-JS  ANGEL's TENNIS CLUB
 
-This is a Tennis Club website. Here you are able to Register for tennis sessions, OR as a Coach and memeber of Angel's Tennis Club, you are able to reserve courts for coaching incoming players/students.
+This is a Tennis Club website. Here you are able to Register for tennis sessions, OR as a Coach and member of Angel's Tennis Club, you are able to reserve courts for coaching incoming players/students.
 
 For Front End, HTML, CSS and Bootstrap were used. For Backend, JavaScript was used. To be brief I used JavaScript for creating some of the tables and populating them.
 
